@@ -1,9 +1,9 @@
-package com.company;
+package Example;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Example002 {
+public class ExampleException002 {
     public static void main(String[] args)throws IOException {
         Scanner sc = new Scanner(System.in);
         System.out.print("첫 번째 수를 입력하시오 : ");

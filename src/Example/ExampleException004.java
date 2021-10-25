@@ -1,8 +1,8 @@
-package com.company;
+package Example;
 
 import java.util.Scanner;
 
-public class Example004 {
+public class ExampleException004 {
     public static void main(String[] args) {
 // TODO Auto-generated method stub
         Scanner sc = new Scanner(System.in);

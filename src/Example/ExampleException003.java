@@ -1,8 +1,8 @@
-package com.company;
+package Example;
 
 import java.util.Scanner;
 
-public class Example003 {
+public class ExampleException003 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("구구단을 구할 단을 구하세요 : ");

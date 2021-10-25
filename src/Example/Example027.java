@@ -1,8 +1,8 @@
-package com.company;
+package Example;
 
 import java.util.Scanner;
 
-public class Example006 {
+public class Example027 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
