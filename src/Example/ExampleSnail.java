@@ -40,7 +40,6 @@ public class ExampleSnail {
         for(m=0; m<size; m++) {                             // 출력문
             for(n=0; n<size; n++) {                         //(0, n+1)
                 System.out.print(snailArr[m][n] + "\t");   // \t = tab키 한번 눌러주기
-
             }
             System.out.println("");
         }
